@@ -1,0 +1,32 @@
+.justify-mycontent{
+   text-align: justify!important;
+}
+.butn.butn-bg{
+	text-align: center!important;
+}
+
+.section-head span,
+.blog .item .by a i,
+.contact .contact-info .item .icon,
+.hero h5,
+.expertises .skills h5 .icon,
+.expertises .nav-tabs li a .icon,
+.services .item .icon,
+.portfolio .filtering .active,
+.blog .item h6:hover{
+	color: #ffa500!important;
+}
+.hero h2:after,
+.expertises .skills .skill-item .skill-progress .progres,
+.portfolio .item-img-overlay,
+.portfolio .filtering span:after{
+	background-color: #ffa500!important;
+}
+.butn-bg-color,.butn-bg:hover {
+    background-color: #ffa500!important;
+    border-color: #ffa500!important;
+}
+
+.jconfirm-content,.jconfirm-title,.jconfirm-title-c{
+	color: black!important;
+}
